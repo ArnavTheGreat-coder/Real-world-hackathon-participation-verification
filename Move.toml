@@ -1,0 +1,16 @@
+[package]
+name = "Real-world-hackathon-participation-verification"
+version = "1.0.0"
+authors = []
+
+[addresses]
+MyModule="0xc51049f4b82062f13181b10eee7215f7f04257f74a2d1e553188ed9762bf7b32"
+
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
