@@ -1,13 +1,13 @@
 #Project README
 
 ## 1. Title
-*[Project Name]*
+Real-world-hackathon-participation-verification
 
 ## 2. Description
-[Project Name] is a [brief description of the project]. This project aims to [mention key objectives and functionalities]. Built using [mention technologies used], it provides users with [highlight key features and benefits].
+Real-world-hackathon-participation-verification is a simple and unique project . This project aims to mention key objectives and functionalities. Built using technologies used, it provides users with great key features and benefits.
 
 ## 3. Vision of the Project
-The vision of [Project Name] is to [describe the long-term goal of the project]. By leveraging [mention any unique approaches or technologies], we aim to create an innovative and sustainable solution that will benefit [mention target audience or industry].
+The vision of Real-world-hackathon-participation-verification is to describe the long-term goal of the project. By leveraging any unique approaches or technologies, we aim to create an innovative and sustainable solution that will benefit it industry].
 
 ## 4. Future Scope
 - *Feature Enhancements*: Addition of new functionalities and improvements to existing ones.
